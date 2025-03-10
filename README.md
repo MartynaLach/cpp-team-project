@@ -1,5 +1,4 @@
 # cpp-team-project
-//Student A Lach
 //Student C Banaś
 #include <iostream>
 using namespace std;
